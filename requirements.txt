@@ -1,4 +1,0 @@
-openai
-mdpdf
-streamlit
-watchdog
